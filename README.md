@@ -1,4 +1,4 @@
-# TraversyaMedia
+# Vue Todo
 
 ## Project setup
 ```
