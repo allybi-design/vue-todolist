@@ -2,7 +2,7 @@
   <div class="todo-item" :class="{ 'is-complete': todoitem.completed }">
     <p>
       <label class="wrapper" @change="markComplete">
-        {{ todoitem.title }} {{ todoitem.id }}
+        {{ todoitem.title }}
         <input type="checkbox" :checked="todoitem.completed" />
         <span class="checkmark"></span>
 
